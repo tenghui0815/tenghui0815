@@ -61,11 +61,7 @@ I am a final-year Software Engineering student seeking a 24-week internship (26 
 
 ---
 
-### 🏆 Achievements & Recognition  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tenghui0815&theme=tokyonight&margin-w=10&no-frame=true" alt="GitHub Trophies" />
-</p>
+### 🏆 Achievements & Recognition
 
 ---
 
