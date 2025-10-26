@@ -61,10 +61,6 @@ I am a final-year Software Engineering student seeking a 24-week internship (26 
 
 ---
 
-### 🏆 Achievements & Recognition
-
----
-
 ### 📫 Contact Me  
 
 - 📧 Email: [tenghuichua03@gmail.com](mailto:tenghuichua03@gmail.com) 
